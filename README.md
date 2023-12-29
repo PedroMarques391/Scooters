@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**Scoortes - Seu Destino de Mobilidade Urbana**
 
-## Getting Started
+Bem-vindo ao universo de Scooters, seu parceiro ideal para uma mobilidade urbana eficiente e elegante.
 
-First, run the development server:
+**Tecnologias Utilizadas:**
+- Desenvolvido com React.js e Next.js para garantir uma experiência de usuário avançada.
+- Estilizado com a flexibilidade do Tailwind CSS para um design moderno e sofisticado.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Destaques do Projeto:**
+- **Componentes Reutilizáveis:**
+  - O componente "product" é a espinha dorsal, utilizado de maneira estratégica em toda a página inicial para uma experiência consistente.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Páginas Funcionais:**
+- **Home:**
+  - Destaque para a variedade de produtos e a praticidade das Scooters.
+  
+- **Suporte:**
+  - Explore nossa seção de suporte abrangente com páginas dedicadas a F.A.Q e Manual do Usuário.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Contato:**
+  - Entre em contato conosco para qualquer dúvida, sugestão ou assistência.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Empresa:**
+  - Saiba mais sobre a nossa visão, missão e compromisso com a mobilidade sustentável.
 
-## Learn More
+**Roteamento Avançado:**
+- Implementado com as ferramentas nativas do Next.js, garantindo navegação eficiente e intuitiva.
 
-To learn more about Next.js, take a look at the following resources:
+**Mobile First:**
+- Desenvolvido seguindo a abordagem "mobile first", o site é totalmente responsivo, proporcionando uma experiência perfeita em todos os dispositivos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Explore o mundo de Scoortes, onde a modernidade encontra a mobilidade urbana com estilo e eficiência.
