@@ -18,7 +18,7 @@ Bem-vindo ao universo de Scooters, seu parceiro ideal para uma mobilidade urbana
   - Explore nossa seção de suporte abrangente com páginas dedicadas a F.A.Q e Manual do Usuário.
 
 - **Contato:**
-  - Entre em contato conosco para qualquer dúvida, sugestão ou assistência.
+  - Fique em contato conosco para qualquer dúvida, sugestão ou assistência.
 
 - **Empresa:**
   - Saiba mais sobre a nossa visão, missão e compromisso com a mobilidade sustentável.
@@ -28,5 +28,8 @@ Bem-vindo ao universo de Scooters, seu parceiro ideal para uma mobilidade urbana
 
 **Mobile First:**
 - Desenvolvido seguindo a abordagem "mobile first", o site é totalmente responsivo, proporcionando uma experiência perfeita em todos os dispositivos.
+
+**Visite Agora:**
+- [Scoortes - Descubra a Modernidade na Mobilidade](https://scooters-61grqbq78-pedro-marques-projects.vercel.app/)
 
 Explore o mundo de Scoortes, onde a modernidade encontra a mobilidade urbana com estilo e eficiência.
